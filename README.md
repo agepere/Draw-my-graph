@@ -7,13 +7,13 @@ Coloring a custom graph with genetics algorithm, OS: Ubuntu
 Anaconda installation is needed: https://anaconda.org/anaconda/python
 If you had already installed anaconda, be sure it's updated with:
   ```
-  conda update -n base conda
+  > conda update -n base conda
   ```
 
 #### 2. Adding channels to anaconda
 
   ```
-  anaconda-navigator
+  > anaconda-navigator
   ```
   
 After that you will have to add the following channels:
