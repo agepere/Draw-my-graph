@@ -17,6 +17,7 @@ If you had already installed anaconda, be sure it's updated with:
   ```
   
 After that you will have to add the following channels:
+
     a. conda-forge
     b. ostrokach-forge
     c. pkgw-forge
